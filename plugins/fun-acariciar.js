@@ -1,4 +1,4 @@
-//Codígo de GHOSTBOT
+//Codígo de ALEIZN
 
 import fs from 'fs';
 import path from 'path';
